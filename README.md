@@ -1,4 +1,4 @@
-![calculadora-react](https://github.com/Tiag0Santos/calculadora-react/blob/main/img/Screenshot.png)
+![calculadora-react](https://github.com/EmersonPenelli/Calculadora-React/blob/main/assets/Screenshot_aplicacao.PNG)
 
 # Calculadora-React
 #### Essa calculadora foi desenvolvida através das aulas da Dio.
